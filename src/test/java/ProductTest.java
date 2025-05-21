@@ -15,7 +15,7 @@ class ProductTest {
     @Test
     void getPrice() {
         double expected = 15.0;
-        Product p1 = new Product("Feuille", 14.0);
+        Product p1 = new Product("Feuille", 15.0);
         assertEquals(expected, p1.getPrice());
     }
 
