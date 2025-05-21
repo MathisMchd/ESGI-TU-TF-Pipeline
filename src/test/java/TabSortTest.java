@@ -46,17 +46,6 @@ class TabSortTest {
         assertArrayEquals(expected, actual);
     }
 
-
-
-
-
-
-
-
-
-
-    // ADDED
-
     @Test
     public void testSortAscending() {
         int[] input = {5, 3, 8, 1, 2};
