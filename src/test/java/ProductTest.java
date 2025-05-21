@@ -5,7 +5,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class ProductTest {
 
 
-    // ADDED
     @Test
     void getName() {
         String expected = "Feuille";
